@@ -57,4 +57,4 @@ git branch -d test
 Terakhir, akan ada saatnya dimana saya sudah membuat banyak modifikasi ke development branch dan membuatnya jadi stabil. Lalu, saya ingin menghubungkannya ke development branch yang lain. Untuk itu, ada perintah merge.
 Pertama, temukan development branch yang akan digunakan untuk melampirkan development branch kedua. Sebagai contoh, saya akan melampirkan test branch ke master branch. saya harus berada di master branch dan menggabungkan dengan perintah:
 git merge [branch]
-<img src="network.png" alt="Gambar_Langit">
+<img src="network.png" alt="network">
