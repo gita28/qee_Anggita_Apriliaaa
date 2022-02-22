@@ -2,8 +2,6 @@ APA ITU VERSIONING?
 fx
 mengatur versi dari source code program
 TOOLS terdiri dari Version Control System (VCS) Source Code
-VERSION CONTROL SYSTEM terdapat pada SCCS-1972 Unix only RCS-1982 Cross platform, text only Single User CVS-1986 File focus Perforce-1995 Centralized, Subversion-2000-track directory structure, Microsoft Team Foundation Server-2005, Gint-2005 Mercurial 2505 Bazum 2005, Distributed
-Sedangkan gita adalah Salah satu version control system populer yang digunakan para developer untuk mengembangkan software secara bersama-bersama
 Untuk menggunakan sync walau jarak jauh GitHub dapat memberikan layanan cloud untuk menyimpan dan mengelola project/repository git. Karena bersifat online, kita bisa meng-edit sebuah repository/project secara bersamaan dengan orang lain di tempat berbeda. Oleh karena itu, platform ini sangat membantu tim project dalam menyusun suatu folder yang berisikan files terkait pemrograman.
 Cara inspecting github
 GIT INIT, CLONE, CONFIG
@@ -11,7 +9,7 @@ $ gat config-global user.uare John Jone"
 $ git config global user.ensil $ git config - - list
 $ git init
 $ git renote add <remote,nate> <remote_repo_url> $ git push u srenote name> <local branch name
-$ git clone ash://john@example.com/path/to/my-project.git
+$ git clone ash://jhon@example.com/path/to/my-project.git
 $ cd ny project
 Untuk scyning
 1.Buka github dan membuat repository baru (tanpa mencheck box)
@@ -40,22 +38,23 @@ lalu ketikan di cmd "git checkout ....kode versi2.... (lalu enter)
 cek folder (jika di folder muncul kembali versi 2 berarti berhasil) 
 lalu refresh github (jika terdapat 1 file dan 3 commit berarti berhasil)
 penggunaan git branch
-Dalam proyek Git apapun, Anda bisa melihat semua branch dengan menulis command berikut di command line:
+Dalam proyek Git apapun, kita bisa melihat semua branch dengan menulis command berikut di command line:
 git branch
 Jika tidak ada branch yg dibuat, tidak akan ada output di terminal. 
 git branch [new_branch]
-Lalu, Anda perlu memindahkan development branch yang baru saja Anda buat. Untuk melakukannya, Anda akan menjalankan tugas berikut
+Lalu, saya perlu memindahkan development branch yang baru saja Anda buat. Untuk melakukannya, saya akan menjalankan tugas berikut
 git checkout [new_branch]
-Output akan menginformasikan bahwa Anda sudah berpindah ke branch baru. Anda beri nama test, lalu:
+Output akan menginformasikan bahwa saya sudah berpindah ke branch baru. saya beri nama test, lalu:
 Switched to branch ‘aku’
-Sekarang, di development branch yang baru, Anda dapat membuat modifikasi code sebanyak-banyaknya sesuai keinginan tanpa merubah apapun di branch utama. 
+Sekarang, di development branch yang baru, saya dapat membuat modifikasi code sebanyak-banyaknya sesuai keinginan tanpa merubah apapun di branch utama. 
 git branch
-Ada suatu hal yang harus diingat jika Anda ingin membuat development branch baru. Pertama, Anda perlu commit branch utama agar Git dapat mengerti apa itu master branch. Tanpa langkah ini, Anda akan mengalami error. Oleh karena itu, pertama-tama commit lalu buatlah development branches.
-Jika Anda ingin menghapus sebuah branch, Anda bisa melakukannya dengan command sebagai berikut:
+ jika saya ingin membuat development branch baru. Pertama, saya perlu commit branch utama agar Git dapat mengerti apa itu master branch. Tanpa langkah ini, Anda akan mengalami error. Oleh karena itu, pertama-tama commit lalu buatlah development branches.
+Jika saya ingin menghapus sebuah branch, saya bisa melakukannya dengan command sebagai berikut:
 git branch -d [branch_name]
-Namun, untuk dapat melakukan ini, Anda tidak boleh berada di branch yang ingin Anda hapus. Jadi, Anda pindah ke master branch lalu hapus branch yg baru saja Anda buat dari master branch.
+Namun, untuk dapat melakukan ini, saya tidak boleh berada di branch yang ingin saya hapus. Jadi, saya pindah ke master branch lalu hapus branch yg baru saja saya buat dari master branch.
 git checkout master
 git branch -d test
-Terakhir, akan ada saatnya dimana Anda sudah membuat banyak modifikasi ke development branch dan membuatnya jadi stabil. Lalu, Anda ingin menghubungkannya ke development branch yang lain. Untuk itu, ada perintah merge.
-Pertama, temukan development branch yang akan digunakan untuk melampirkan development branch kedua. Sebagai contoh, Anda akan melampirkan test branch ke master branch. Anda harus berada di master branch dan menggabungkan dengan perintah:
+Terakhir, akan ada saatnya dimana saya sudah membuat banyak modifikasi ke development branch dan membuatnya jadi stabil. Lalu, saya ingin menghubungkannya ke development branch yang lain. Untuk itu, ada perintah merge.
+Pertama, temukan development branch yang akan digunakan untuk melampirkan development branch kedua. Sebagai contoh, saya akan melampirkan test branch ke master branch. saya harus berada di master branch dan menggabungkan dengan perintah:
 git merge [branch]
+<img src="network.png" alt="Gambar_Langit">
