@@ -1,24 +1,33 @@
-Tugas Github (React, QE, UIUX, Vue) 1 Buat lah repository baru di github
+Essay 
+milik anggita
+10+ Peluang Usaha Perkebunan yang Menguntungkan
+Memiliki lahan pertanian yang luas rasanya sangat disayangkan kalau kita tidak memanfaatkan peluang usaha perkebunan untuk diolah sehingga menghasilkan barang dan jasa yang ditanam. 
+Dari pada lahan dibiarkan tidak menghasilkan apapun lebih baik kamu manfaatkan lahan kosong tersebut agar memiliki pemasukan tambahan.
+Salah satu hal yang perlu kamu ketahui bahwa hasil usaha perkebunan cukup menarik minat banyak pebisnis, meskipun memiliki banyak resiko terutama soal pemasaran namun jika dijalankan dengan kreatif maka bisnis ini akan berjalan dengan baik.
+Pada era teknologi seperti saat ini bukanlah hal sulit. Untuk menemukan ilmu dan informasi seputar bisnis perkebunan. Internet dapat membantu kamu untuk mempelajari banyak hal baru. 
+Ada banyak sekali contoh kegiatan usaha perkebunan yang membutuhkan ilmu dan pengalaman yang tinggi, ada juga perkebunan yang sifatnya dapat dilakukan oleh siapa saja, hanya dengan membaca sedikit prosedurnya.
+Ini adalah hal yang bagus, karena ketika kamu sudah melakukan usaha perkebunan bukan hanya soal lahan yang kosong saja.
 
-2. Masukkan project 
-(terserah kalian) dan buat project du sebagai master 
-3 Buatlah branch baru yang berfungsi sebagai develop
+Namun berpikir bagaimana usaha perkebunan tersebut berjalan. 
+Alasannya ada banyak pilihan jenis perkebunan yang memiliki cakupan pasar yang luas, dibawah ini terdapat beberapa jenis usaha perkebunan yang dapat kamu jalankan.
+Peluang Usaha Perkebunan
+Walau, banyak bentuk usaha perkebunan yang sulit untuk dicoba karena kesedian lahan atau bisa lahannya tidak cocok. Pada artikel ini Wong cerdas akan membahas tuntas beberapa jenis usaha perkebunan yang mudah untuk dicoba:
+1. Peluang Usaha Perkebunan Buah
+Ternyata peluang usaha tanaman buah memang bisa dilakukan pada sepetak tanah atau lahan kecil. Namun lebih beruntungnya lagi jika lahan yang mau di gunakan untuk usaha perkebunan buah ini lebih besar lagi. Karena hal ini akan memberikan keuntungan yang lebih besar juga. 
+2. Peluang Usaha Perkebunan Singkong
+Seiring meningkatnya bisnis makanan berbahan singkong, kini singkong telah menjadi kebutuhan yang terus meningkat di pasaran. Sudah dipastikan jika tanaman ini termasuk tanaman yang menjanjikan masa depan.
+Kamu dapat memanfaatkan keadaan ini untuk berbisnis, terlebih usaha perkebunan tersebut. Memiliki prospek yang amat bagus karena mudah dilakukan, bahkan bisa di mulai dengan modal kecil namun dapat menghasilkan untung yang besar.
 
-4.
- Buatlah branch ketiga sebagai penambahan fitur, pada brach ini lakukan 
-penambahan fitur Lakukan merge pada berach ketiga kedalam brach develop
+3. Peluang Usaha Perkebunan Teh
+Ternyata usaha perkebunan teh dapat mendulang keuntungan yang menjanjikan loh. Karena usaha ini mempunyai pasar yang begitu luas. Untuk memulai usaha perkebunan teh ini juga, sangat mudah loh! 
+Namun minusnya perkebunan teh ini hanya dapat dilakukan pada wilayah yang mempunyai cuaca dingin. Cocok untuk kamu yang memiliki rumah yang berada pada dataran tinggi.
 
-5.
- Buatlah branch keempat sebagai penambah fitur, pada brach ini lakukan penambahan fitur Lakukan merge pada berach ke empat
- kedalam brach develop
+4. Peluang Usaha Perkebunan Kopi
+Usaha perkebunan kopi menjadi peluang usaha perkebunan yang menjanjikan karena bentuk usaha ini tidak memerlukan lahan kontur yang bagus. Bagi kamu yang tinggal di pegunungan dengan bukit yang curam saja dapat ditanami kopi. 
+Hebatnya lagi perawatan tanaman kopi ini sangat mudah sekali berbeda dengan tanaman seperti buah – buahan bahkan sayuran sekalipun. Apalagi harga kopi yang melonjak tinggi dapat membuat kamu meraup keuntungan yang lebih fantastis.
 
-6 Buktikan dengan screenshot dan insights network Kumpulkan SS dan juga link dan
+5. Peluang Usaha Perkebunan Bunga
+Jika disuruh sebutkan contoh usaha perkebunan dapat membuat pekarangan rumahmu indah adalah usaha perkebunan bunga. Tanaman ini cukup menjanjikan, jika dijadikan lahan usaha bisnis karena omset yang didapat cukup besar pula.
+Selain wangi dan segar jika di pandang, terdapat beberapa bunga tertentu yang biasanya dimanfaatkan untuk industri kecantikan kosmetik bisa dibuat semacam parfum atau produk kosmetik lain. 
 
-repo kalian pada 
-alta id
-
-Tugas Miniproject (UI/UIX)
-
-1. Buatlah desain figma untuk kalian gunakan pada mini project 2. 
-Tema pada miniproject bebas, ide kalian akan kita diskusikan jumat. 
-Maka siapkan figma dengan sebaik mungkin
+Mempelajari mengenai peluang usaha perkebunan adalah  hal yang sangat menyenangkan jika kamu telah merencanakan dan mengetahui harus dari mana kamu memulai bisnis tersebut. 
