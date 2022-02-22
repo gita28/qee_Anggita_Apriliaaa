@@ -1,9 +1,9 @@
-APA ITU VERSIONING?
+#APA ITU VERSIONING?
 fx
 mengatur versi dari source code program
 TOOLS terdiri dari Version Control System (VCS) Source Code
 Untuk menggunakan sync walau jarak jauh GitHub dapat memberikan layanan cloud untuk menyimpan dan mengelola project/repository git. Karena bersifat online, kita bisa meng-edit sebuah repository/project secara bersamaan dengan orang lain di tempat berbeda. Oleh karena itu, platform ini sangat membantu tim project dalam menyusun suatu folder yang berisikan files terkait pemrograman.
-Cara inspecting github
+#Cara inspecting github
 GIT INIT, CLONE, CONFIG
 $ gat config-global user.uare John Jone"
 $ git config global user.ensil $ git config - - list
@@ -11,7 +11,7 @@ $ git init
 $ git renote add <remote,nate> <remote_repo_url> $ git push u srenote name> <local branch name
 $ git clone ash://jhon@example.com/path/to/my-project.git
 $ cd ny project
-Untuk scyning
+#Untuk scyning
 1.Buka github dan membuat repository baru (tanpa mencheck box)
 2. Buat folder baru di File Explorer (bebas) dengan nama folder (bebas)
 3. Membuat suatu file dengan tipe .txt (dengan menggunakan Notepad++)
@@ -39,7 +39,7 @@ cek folder (jika di folder muncul kembali versi 2 berarti berhasil)
 lalu refresh github (jika terdapat 1 file dan 3 commit berarti berhasil)
 penggunaan git branch
 Dalam proyek Git apapun, kita bisa melihat semua branch dengan menulis command berikut di command line:
-git branch
+#git branch
 Jika tidak ada branch yg dibuat, tidak akan ada output di terminal. 
 git branch [new_branch]
 Lalu, saya perlu memindahkan development branch yang baru saja Anda buat. Untuk melakukannya, saya akan menjalankan tugas berikut
