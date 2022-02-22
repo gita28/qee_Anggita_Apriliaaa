@@ -1,9 +1,10 @@
-#APA ITU VERSIONING?
+<h1>#APA ITU VERSIONING? </h1>
 fx
 mengatur versi dari source code program
 TOOLS terdiri dari Version Control System (VCS) Source Code
 Untuk menggunakan sync walau jarak jauh GitHub dapat memberikan layanan cloud untuk menyimpan dan mengelola project/repository git. Karena bersifat online, kita bisa meng-edit sebuah repository/project secara bersamaan dengan orang lain di tempat berbeda. Oleh karena itu, platform ini sangat membantu tim project dalam menyusun suatu folder yang berisikan files terkait pemrograman.
-#Cara inspecting github
+new paragraf here
+<h1>#Cara inspecting github</h1>
 GIT INIT, CLONE, CONFIG
 $ gat config-global user.uare John Jone"
 $ git config global user.ensil $ git config - - list
