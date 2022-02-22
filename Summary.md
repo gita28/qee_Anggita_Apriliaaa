@@ -14,7 +14,7 @@ $ git renote add <remote,nate> <remote_repo_url> $ git push u srenote name> <loc
 $ git clone ash://jhon@example.com/path/to/my-project.git
 $ cd ny project
 
-<h1> #Untuk scyning <h1>
+<h1> #Untuk scyning </h1>
 1.Buka github dan membuat repository baru (tanpa mencheck box)
 2. Buat folder baru di File Explorer (bebas) dengan nama folder (bebas)
 3. Membuat suatu file dengan tipe .txt (dengan menggunakan Notepad++)
@@ -43,7 +43,7 @@ lalu refresh github (jika terdapat 1 file dan 3 commit berarti berhasil)
 penggunaan git branch
 Dalam proyek Git apapun, kita bisa melihat semua branch dengan menulis command berikut di command line:
 
-<h1> #git branch <h1>
+<h1> #git branch </h1>
 Jika tidak ada branch yg dibuat, tidak akan ada output di terminal. 
 git branch [new_branch]
 Lalu, saya perlu memindahkan development branch yang baru saja Anda buat. Untuk melakukannya, saya akan menjalankan tugas berikut
