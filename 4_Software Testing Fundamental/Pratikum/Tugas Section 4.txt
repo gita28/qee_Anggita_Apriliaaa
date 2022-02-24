@@ -1,4 +1,4 @@
-<h1> 1 </h1>
+ 1 
 pada kelas hascode, tutorial entity terdapat satu kelas cakupan garisnya sebesar 67% 6/9 sedangkan  garis mutasinya sama 67% 2/3 Jika mutation score < 100%, maka test case belum cukup, test case perlu ditambah lagi hingga mutant yang not killable menjadi killable dan mutation score menjadi 100%
 
  hascode tutorial service terdepat 1 kelas cakupan garisnya sebesar 100% 6/6 sedangkan garis mutasinya 75% 3/4 Jika mutation score < 100%, maka test case belum cukup, test case perlu ditambah lagi hingga mutant yang not killable menjadi killable dan mutation score menjadi 100%
