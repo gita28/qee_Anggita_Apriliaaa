@@ -1,10 +1,25 @@
-<h1>Jawaban tugas Section 3</h1>
+<h1>Software Testing As Career</h1>
 
-menurut saya: 
+Apa itu Pengujian Perangkat Lunak?
 
-Isi wadah 3L dengan air. Buang semuanya ke dalam wadah 5L. Sekarang saya 
-memiliki 0L air dalam wadah 3L dan 3L air dalam wadah 5L. lalu Isi kembali wadah 3L. Masukkan 
-ke dalam wadah 5L sampai penuh. Sekarang saya memiliki 1L dalam wadah 3L dan 5L dalam wadah 5L. 
-Kosongkan wadah 5L. Buang semua air dalam wadah 3L ke dalam wadah 5L. Sekarang saya memiliki 0L 
-dalam wadah 3L dan 1L dalam wadah 5L. Isi wadah 3L. 
-Buang air dalam wadah 3L ke dalam wadah 5L. Sekarang saya memiliki 4L air dalam wadah 5L.
+Proses verifikasi sistem/program komputer untuk memutuskan apakah sistem/program tersebut memenuhi persyaratan yang ditentukan dan menghasilkan hasil yang diinginkan.
+Akibatnya, Anda mengidentifikasi bug dalam produk/proyek perangkat lunak
+
+Apa yang Dilakukan Penguji Perangkat Lunak?
+
+1. Memahami Dokumen Persyaratan
+2. Buat Kasus Uji
+3. Jalankan Pengujian
+4. Melaporkan dan menguji ulang bug
+5. Menghadiri pertemuan tinjauan dan kegiatan membangun tim lainnya
+
+Jalur Karir Penguji Perangkat Lunak
+
+1. Insinyur Kualitas Junior (Lebih Baru)
+2. Quality Engineer (pengalaman 1-2 tahun)
+3. Insinyur Kualitas Senior (>3 tahun pengalaman)
+4. Pemimpin Insinyur Kualitas (pengalaman 5-6 tahun)
+
+Mitos Umum
+
+Penguji Perangkat Lunak dibayar lebih rendah daripada pengembang, dan pengembang lebih dihormati daripada penguji perangkat lunak. Penguji Perangkat Lunak dibayar dan diperlakukan setara dengan Pengembang Perangkat Lunak. Karier di Pengujian Perangkat Lunak tidak boleh dianggap sebagai "peringkat kedua."
