@@ -33,3 +33,7 @@ fungcional testing
 2. PENGUJIAN INTEGRASI adalah tingkat pengujian perangkat lunak di mana unit individu digabungkan dan diuji sebagai sebuah kelompok.
 3. PENGUJIAN SISTEM adalah tingkat pengujian perangkat lunak di mana perangkat lunak yang lengkap dan terintegrasi diuji.
 4. PENGUJIAN PENERIMAAN adalah tingkat pengujian perangkat lunak di mana sistem diuji untuk penerimaan.
+
+![network.png](https://github.com/gita28/qee_Anggita_Apriliaaa/blob/main/4_Software%20Testing%20Fundamental/Screen%20shoot/tugas4%201.PNG)
+
+![network.png](https://github.com/gita28/qee_Anggita_Apriliaaa/blob/main/4_Software%20Testing%20Fundamental/Screen%20shoot/tugas4%202.PNG)

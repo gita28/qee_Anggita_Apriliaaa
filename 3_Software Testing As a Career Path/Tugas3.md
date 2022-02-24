@@ -23,3 +23,7 @@ Jalur Karir Penguji Perangkat Lunak
 Mitos Umum
 
 Penguji Perangkat Lunak dibayar lebih rendah daripada pengembang, dan pengembang lebih dihormati daripada penguji perangkat lunak. Penguji Perangkat Lunak dibayar dan diperlakukan setara dengan Pengembang Perangkat Lunak. Karier di Pengujian Perangkat Lunak tidak boleh dianggap sebagai "peringkat kedua."
+
+dan soal
+
+![network.png](https://github.com/gita28/qee_Anggita_Apriliaaa/blob/main/3_Software%20Testing%20As%20a%20Career%20Path/Screenshoot/tugas3.PNG)
