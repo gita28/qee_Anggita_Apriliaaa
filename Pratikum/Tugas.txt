@@ -1,0 +1,24 @@
+Tugas Github (React, QE, UIUX, Vue) 1 Buat lah repository baru di github
+
+2. Masukkan project 
+(terserah kalian) dan buat project du sebagai master 
+3 Buatlah branch baru yang berfungsi sebagai develop
+
+4.
+ Buatlah branch ketiga sebagai penambahan fitur, pada brach ini lakukan 
+penambahan fitur Lakukan merge pada berach ketiga kedalam brach develop
+
+5.
+ Buatlah branch keempat sebagai penambah fitur, pada brach ini lakukan penambahan fitur Lakukan merge pada berach ke empat
+ kedalam brach develop
+
+6 Buktikan dengan screenshot dan insights network Kumpulkan SS dan juga link dan
+
+repo kalian pada 
+alta id
+
+Tugas Miniproject (UI/UIX)
+
+1. Buatlah desain figma untuk kalian gunakan pada mini project 2. 
+Tema pada miniproject bebas, ide kalian akan kita diskusikan jumat. 
+Maka siapkan figma dengan sebaik mungkin
