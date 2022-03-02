@@ -3,7 +3,7 @@ pada kelas hascode, tutorial entity terdapat satu kelas cakupan garisnya sebesar
 
  hascode tutorial service terdepat 1 kelas cakupan garisnya sebesar 100% 6/6 sedangkan garis mutasinya 75% 3/4 Jika mutation score < 100%, maka test case belum cukup, test case perlu ditambah lagi hingga mutant yang not killable menjadi killable dan mutation score menjadi 100%
 
-<h1>2</h1>
+2
 
 public adalah sebuah keyword di Java yang menandakan bahwa objek, method, atau atribut dapat diakses dari class lain. class adalah sebuah keyword di Java yang digunakan untuk membuat sebuah class. static adalah sebuah keyword untuk membuat sebuah method tidak perlu diinstansiasi terlebih dahulu
 
