@@ -1,0 +1,17 @@
+<h1> Testing Web Applications with Serenity </h1>
+Serenity BDD menyediakan integrasi yang sangat baik 
+dengan Selenium, yang memungkinkan Anda menghindari banyak boilerplate 
+dan kode infrastruktur yang biasanya perlu Anda tangani dalam pengujian web otomatis. 
+Secara khusus, Serenity mengelola siklus hidup driver untuk Anda (jadi Anda
+ tidak perlu membuat instance driver sendiri, atau menutupnya di akhir pengujian). 
+ Serenity juga dapat dikonfigurasi untuk mengambil tangkapan layar secara otomatis selama pengujian,
+  membuat dokumentasi yang kaya tentang bagaimana setiap pengujian dimainkan. Saat Anda menulis pengujian 
+  dengan lancar dan mudah dibaca,
+ tangkapan layar ini menjadi bagian dari "dokumentasi hidup" aplikasi Anda.
+
+ Serenity BDD merupakan library open source yang membantu tester dalam menulis automation acceptance test
+yang terstruktur dan lebih terawat dengan baik dan juga menghasilkan laporan pengujian yang kaya makna (yang biasa
+dikenal dengan istilah “living documentation” atau dokumentasi hidup) yang tidak hanya melaporkan pada hasil
+pengujian, tetapi juga fitur apa yang telah diuji.
+Serenity BDD memiliki arsitektur sebagai
+berikut:
