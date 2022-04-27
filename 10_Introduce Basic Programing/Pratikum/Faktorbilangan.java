@@ -11,7 +11,7 @@ for(int i=1;i<=bilangan;i++)
 {
 if(bilang%i == 0)
 {
-Sytem.outprint(i+ " ");
+Sytem.out.print(i+ " ");
 }
 }
 }
