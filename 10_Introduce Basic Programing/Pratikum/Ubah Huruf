@@ -1,0 +1,21 @@
+Public class ubahHuruf {
+
+private static String ubahHuruf (String s)
+
+// your code here
+
+
+
+
+System.out.println(ubahHuruf("SEPULSA // COZEVCK YUO System.out.println(ubahHuruf ("ALTERRA OKE")); ACADEMY")); // KVDOBBK KMKNOWI
+
+System.out.println(ubahHuruf("INDONESIA"));
+
+// SXNYXOCSK
+
+System.out.println(ubahHuruf("GOLANG")); // QYVKXQ
+
+System.out.println(ubahHuruf ("PROGRAMMER")); // ZBYQBKWWOB
+
+}
+}
