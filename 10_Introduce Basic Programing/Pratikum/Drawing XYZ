@@ -1,8 +1,7 @@
-class Main {
+Public class Main {
 
 private static void DrawXYZ (int n)
 
-// your code here
 
 {
 
