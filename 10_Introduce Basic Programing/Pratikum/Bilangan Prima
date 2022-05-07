@@ -1,0 +1,35 @@
+Public class BilanganPrima {
+
+private static boolean primeNumber(int number)
+
+// your code here
+
+
+
+}
+
+public static void main(String[] args) {
+
+System.out.println(primeNumber (11)); //
+
+System.out.println(primeNumber (13)); //
+
+true
+
+true
+
+System.out.println(primeNumber (17)); //
+
+true
+
+System.out.println(primeNumber (20));
+
+//
+
+false
+
+System.out.println(primeNumber (35)); //
+
+false
+
+}
