@@ -1,14 +1,15 @@
 Public class BilanganPrima {
 
-private static boolean primeNumber(int number)
-
-// your code here
-
-
-
-}
-
 public static void main(String[] args) {
+
+System.out.println("----------------------------------------------");
+        for (int i=2; i<=bil; i++){
+            if (bil%i==0){
+                cek++;
+            } 
+        }
+        
+        if (cek==1){
 
 System.out.println(primeNumber (11)); //
 
