@@ -1,0 +1,18 @@
+Public class Mean {
+
+private static float Mean(float[] numbers) {
+
+// your code here
+
+
+
+
+}
+
+public static void main(String[] args) { float[] value = {1, 2, 3,
+
+4};
+
+System.out.println(Mean(value)); // 2.5 }
+
+}
