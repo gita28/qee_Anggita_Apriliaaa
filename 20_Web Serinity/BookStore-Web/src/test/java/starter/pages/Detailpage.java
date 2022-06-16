@@ -7,15 +7,15 @@ import org.openqa.selenium.By;
 public class Detailpage extends PageObject {
 
     private By Detailpagefield() {
-        return By.xpath(" ");
+        return By.xpath("//*[@id=\"app\"]/div/div/div[1]");
     }
 
     private By ButtonAddYourCollectionfield() {
-        return By.xpath("  ");
+        return By.xpath("//*[@id=\"addNewRecordButton\"]  ");
     }
 
     private By ButtonBackToBookStorefield() {
-        return By.xpath("  ");
+        return By.xpath("//*[@id=\"addNewRecordButton\"]");
     }
 
     @Step

@@ -7,15 +7,14 @@ import org.openqa.selenium.By;
 public class Homepage extends PageObject {
 
    private By Homepagefield(){
-       return By.xpath("  ");
+       return By.xpath("//*[@id=\"books-wrapper\"]/div[1]");
    }
-
     private By ButtonGotoBookStorefield() {
-        return By.xpath("  ");
+        return By.xpath("//*[@id=\"gotoStore\"]");
     }
 
     private By ButtonDeleteAllBooksfield() {
-        return By.xpath(" ");
+        return By.xpath("//*[@id=\"submit\"]");
     }
 
 

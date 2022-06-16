@@ -8,21 +8,21 @@ public class Registerpage extends PageObject {
 
 
     private By FristNameField() {
-        return By.xpath("//*[@id=\"app\"]/div/main/div/div/div/div[2]/form/div[1]");
+        return By.xpath("//*[@id=\"firstname\"]");
     }
 
     private By LastNameField() {
-        return By.xpath("//*[@id=\"app\"]/div/main/div/div/div/div[2]/form/div[2]");
+        return By.xpath("//*[@id=\"lastname\"]");
     }
 
     private By UserNameField() {
-        return By.xpath("    ");
+        return By.xpath("//*[@id=\"userName\"]");
     }
 
-    private By ImNotRobotField(){return By.xpath("    "); }
+    private By ImNotRobotField(){return By.xpath("//*[@id=\"recaptcha-anchor\"]/div[1]"); }
 
     private By PaswordField() {
-        return By.xpath("    ");
+        return By.xpath("//*[@id=\"password\"]");
     }
 
     private By ButtonRegisterField() {

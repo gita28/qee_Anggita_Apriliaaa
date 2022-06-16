@@ -8,15 +8,15 @@ public class LoginPage extends PageObject {
 
 
     private By userNameField(){
-        return By.xpath("   ");
+        return By.xpath("//*[@id=\"userName\"]");
     }
 
     private By passwordField(){
-        return By.xpath("   ");
+        return By.xpath("//*[@id=\"password\"]");
     }
 
     private By loginButton() {
-        return By.xpath("    ");
+        return By.xpath("//*[@id=\"login\"]");
 
     }
 

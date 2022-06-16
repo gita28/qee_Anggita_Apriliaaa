@@ -7,11 +7,11 @@ import org.openqa.selenium.By;
 public class Bookstorepage extends PageObject {
 
     private By BookStorefield() {
-        return By.xpath("");
+        return By.xpath("//*[@id=\"app\"]/div/div/div[2]/div[2]");
     }
 
     private By ButtonClickBooks() {
-        return By.xpath("");
+        return By.xpath("//*[@id=\"see-book-Git Pocket Guide\"]/a");
     }
 
     @Step
